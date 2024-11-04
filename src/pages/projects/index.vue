@@ -4,5 +4,5 @@
     <RouterLink to="/">Go to home</RouterLink>
   </div>
 </template>
-<script setup lang="ts"></script>
-<style lang=""></style>
+<script setup l                                                                                                       ang="ts"></script>
+<style></style>
